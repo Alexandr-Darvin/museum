@@ -1,11 +1,10 @@
 import React from 'react';
-import './App.css';
 import './Footer.css';
 import iconmap from './iconmap.png';
 import iconphone from './iconphone.png';
 
 
-function App() {
+function Footer() {
   return (
     <div className="footer">
       <div className="contact">
@@ -17,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default Footer;

@@ -1,9 +1,8 @@
 import React from 'react';
-import './App.css';
 import image0 from './0.jpg';
 import image1 from './1.jpg';
 import image2 from './2.jpg';
-function App() {
+function Carousel() {
   return (
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="3500">
   <ol class="carousel-indicators">
@@ -45,5 +44,4 @@ function App() {
 </div>
   );
 }
-
-export default App;
+export default Carousel;

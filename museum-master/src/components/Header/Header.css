@@ -1,7 +1,7 @@
 
 .head {
   background-color: #f7f7f7; /* Цвет фона */
-  height: 110px;
+  height: 105px;
   color: #002b58;
   position: fixed; /* Фиксированное положение */
   width: 100%; /* Ширина слоя */
@@ -20,7 +20,7 @@
 
 .nav {
   width: 400px;
-  height: 50px; /* Ширина элемента в пикселах */
+  height: 40px; /* Ширина элемента в пикселах */
   align-items: center;
   margin: auto;
   display: flex;
@@ -28,7 +28,6 @@
 
 }
 
-/* .name {
-text-decoration: none;
+ .name {
+  text-align: center;
 }
-*/

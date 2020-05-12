@@ -1,7 +1,7 @@
 import React from 'react';
 //import logo from './logo.svg';
 import './Home.css'
-import Header from '../Header/HeaderMain'
+import Header from '../Header/Header'
 import Footer from '../Footer/Footer';
 import Carousel from './Carousel';
 import Text from './Text';

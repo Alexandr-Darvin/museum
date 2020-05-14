@@ -66,6 +66,7 @@ h3 {
     -moz-transition: all .5s;
     -o-transition: all .5s;
     transition: all .5s;
+    
 }
 .vozm:hover .child, .vozm:focus .child {
     -ms-transform: scale(1.2);
@@ -73,6 +74,7 @@ h3 {
     -webkit-transform: scale(1.2);
     -o-transform: scale(1.2);
     transform: scale(1.2);
+   
 }
 
 .vozm .red_bl {
@@ -83,12 +85,12 @@ h3 {
 .bg-1 {background-image: url("https://sun9-51.userapi.com/c858024/v858024008/1f8600/kmIrkevfHr4.jpg");margin-top: -222px;}
 .bg-2 {background-image: url("https://sun9-71.userapi.com/c858020/v858020209/1f12ea/NxBIcQ1FRx4.jpg");margin-top: -222px;}  
 .bg-3 {background-image: url("https://sun9-43.userapi.com/c858020/v858020209/1f12f3/31tsHrCdVZE.jpg");margin-top: -222px;}
-.bg-4 {background-image: url("https://sun9-60.userapi.com/c858020/v858020209/1f1381/oeXCYsYhpRc.jpg");margin-top: -222px;}
-.bg-5 {background-image: url("https://sun9-22.userapi.com/c858020/v858020209/1f133c/aHIVKVfOB_g.jpg");margin-top: -222px;}  
-.bg-6 {background-image: url("https://sun9-4.userapi.com/c858020/v858020209/1f1332/CGdc5LGqXcI.jpg");margin-top: -222px;}
-.bg-7 {background-image: url("https://sun9-15.userapi.com/c858020/v858020209/1f1364/2yxCZsdXeCs.jpg");margin-top: -222px;}
-.bg-8 {background-image: url("https://sun9-7.userapi.com/c858020/v858020209/1f1377/SUODKgoIAYM.jpg");margin-top: -222px;}  
-.bg-9 {background-image: url("https://sun9-28.userapi.com/c858020/v858020209/1f1350/pKXBZNUxluo.jpg");margin-top: -222px;}
+.bg-4 {background-image: url("https://sun9-59.userapi.com/c857032/v857032550/18f7a3/mtwBUDmcDtA.jpg");margin-top: -222px;}
+.bg-5 {background-image: url("https://sun9-66.userapi.com/c857032/v857032550/18f826/9-XDnz5MObE.jpg");margin-top: -222px;}  
+.bg-6 {background-image: url("https://sun9-12.userapi.com/c857032/v857032550/18f726/E3Kh_hmTqeU.jpg");margin-top: -222px;}
+.bg-7 {background-image: url("https://sun9-9.userapi.com/c857032/v857032550/18f813/Fy8EoJ08gOw.jpg");margin-top: -222px;}
+.bg-8 {background-image: url("https://sun9-7.userapi.com/c857032/v857032550/18f7d8/pnFeXnCEOG4.jpg");margin-top: -222px;}  
+.bg-9 {background-image: url("https://sun9-60.userapi.com/c857032/v857032550/18f788/uX7VXLXAXtY.jpg");margin-top: -222px;}
 
 
 

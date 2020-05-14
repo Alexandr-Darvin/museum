@@ -6,8 +6,6 @@ import React from 'react';
 import Header from '../Header/Header'
 import Footer from '../Footer/Footer'
 import * as serviceWorker from '../../serviceWorker'
-import { Link } from "react-router-dom"
-
 
 
 
@@ -15,7 +13,7 @@ import { Link } from "react-router-dom"
 
 function News () {
     return (
-      <div className='News'>
+      <div classNameName='News'>
         <Header/>
             <div className="content">
 
@@ -24,12 +22,12 @@ function News () {
                 </div>
                 
                 <div className="card-news-body">
-                    <img src={ph3} class="news-img"></img>
-                    <h5 class="news-text">НОВОСТИ</h5>
+                    <img src={ph3} class="news-img" alt="иконка новостей"></img>
+                    <h5 className="news-text">НОВОСТИ</h5>
                 </div>
                 <hr></hr>
 
-                <div className="text">
+                <div classNameName="text">
                     <Text />
                 </div>
       

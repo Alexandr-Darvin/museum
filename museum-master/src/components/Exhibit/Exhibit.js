@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import Header from '../Header/Header'
 import Footer from '../Footer/Footer'
 import './Exhibit.css'
-import sonata from './sonata.jpg'
 import logo from './exhibit.png';
 import { Link } from "react-router-dom"
 import axios from 'axios'
@@ -38,7 +36,7 @@ class Exhibit extends Component {
       <div className="content">
         <div className="nameplate">
           <div className="card-news-body">
-            <img src={logo} className="news-img"></img>
+            <img src={logo} className="news-img" alt = "logo"></img>
             <h5 className="news-text">ЭКСПОНАТЫ</h5>
           </div>
           <hr></hr>
@@ -54,7 +52,7 @@ class Exhibit extends Component {
             <p> Место нахождения: в тумбочке, в кладовой</p>
             <p> Примечание: в нерабочем состоянии на 23.04.2014г. Арх. 16т. 2</p>
             </h6></div>
-          <div className="photo"> <img src={`${process.env.REACT_APP_API_URL}${this.state.img[1]}`} width="500" height="350" ></img>
+          <div className="photo"> <img src={`${process.env.REACT_APP_API_URL}${this.state.img[1]}`} alt = "1" width="500" height="350" ></img>
           
           </div>
         </div>

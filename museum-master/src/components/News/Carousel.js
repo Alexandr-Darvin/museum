@@ -16,16 +16,16 @@ function Carousel() {
           </ol>
           <div class="carousel-inner">
               <div class="carousel-item active">
-                  <img src={image0} class="d-block w-100"></img>
+                  <img src={image0} class="d-block w-100" alt="1 фото карусельки"></img>
               </div>
               <div class="carousel-item">
-                  <img src={image1} class="d-block w-100"></img>
+                  <img src={image1} class="d-block w-100" alt="2 фото карусельки"></img>
               </div>
               <div class="carousel-item">
-                  <img src={image2} class="d-block w-100"></img>
+                  <img src={image2} class="d-block w-100" alt="3 фото карусельки"></img>
               </div>
               <div class="carousel-item">
-                  <img src={image3} class="d-block w-100"></img>
+                  <img src={image3} class="d-block w-100" alt="4 фото карусельки"></img>
               </div>
           </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

@@ -14,7 +14,7 @@ function Katalog(){
         </div>
         <div className = "blok">
        
-            <a href="https://sfedu.ru/" className="knopka"> 
+            <a href ="https://sfedu.ru/" className="knopka"> 
             <a className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
@@ -29,7 +29,7 @@ function Katalog(){
             </a>
             </a>
                          
-            <a href="https://sfedu.ru/" className="knopka">
+            <a href="#https://sfedu.ru/" className="knopka">
             <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
@@ -42,7 +42,7 @@ function Katalog(){
             </div>
             </a>
 
-            <a href="https://sfedu.ru/" className="knopka">
+            <a href="#https://sfedu.ru/" className="knopka">
             <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
@@ -55,7 +55,7 @@ function Katalog(){
             </div>
             </a>
 
-            <a href="https://sfedu.ru/" className="knopka">
+            <a href="#https://sfedu.ru/" className="knopka">
             <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
@@ -68,7 +68,7 @@ function Katalog(){
             </div>
             </a>
 
-            <a href="http://localhost:3000/news" className="knopka">
+            <a href="#http://localhost:3000/news" className="knopka">
             <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
@@ -82,7 +82,7 @@ function Katalog(){
             </div>
             </a>
 
-            <a href="http://localhost:3000/news" className="knopka"> 
+            <a href="#http://localhost:3000/news" className="knopka"> 
             <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
@@ -95,7 +95,7 @@ function Katalog(){
             </div>
             </a>
         
-            <a href="http://localhost:3000/news" className="knopka">
+            <a href="#http://localhost:3000/news" className="knopka">
             <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
@@ -108,7 +108,7 @@ function Katalog(){
             </div>
             </a>
 
-            <a href="http://localhost:3000/news" className="knopka">            <div className="vozm">
+            <a href="#http://localhost:3000/news" className="knopka">            <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
                         <p>Оружие</p>
@@ -120,7 +120,7 @@ function Katalog(){
             </div>
             </a>
 
-            <a href="http://localhost:3000/news" className="knopka">            <div className="vozm">
+            <a href="#http://localhost:3000/news" className="knopka">            <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
                         <p>Фото и видео техника</p>
@@ -132,7 +132,7 @@ function Katalog(){
             </div>
             </a>
 
-            <a href="http://localhost:3000/news" className="knopka">            <div className="vozm">
+            <a href="#http://localhost:3000/news" className="knopka">            <div className="vozm">
                 <div className="vposf">
                     <div className = "blok_title">
                         <p>Прочее</p>

@@ -2,7 +2,7 @@ import React from 'react';
 import './Header.css';
 import logo from './logo.JPG';
 import sfedu from './sfedu.png';
-import { Route, Switch, Redirect, withRouter } from "react-router-dom"
+
 import { Link } from "react-router-dom"
 
 
@@ -10,7 +10,7 @@ import { Link } from "react-router-dom"
 function Header() {
     return (
       <div className="head">
-        <Link to="/home"><div className="logo" ><img src={logo}></img></div></Link>
+        <Link to="/home"><div className="logo" alt = "Логотип"><img src={logo} alt = "Логотип" ></img></div></Link>
         <div className="info">
           <div className="name"> <h3>ПОЛИТЕХНИЧЕСКИЙ МУЗЕЙ ЮФУ</h3></div>
           <div className="nav">
@@ -19,7 +19,7 @@ function Header() {
             <a href="http://sfedu.ru/">Официальный сайт ЮФУ</a>
           </div>
         </div>
-        <div className="logo_sfedu"><img height="100px" src={sfedu}></img></div>
+        <div className="logo_sfedu"><img height="100px" src={sfedu} alt = "Логотип"></img></div>
       </div>
     );
 }

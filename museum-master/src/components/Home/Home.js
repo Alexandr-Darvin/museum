@@ -5,7 +5,6 @@ import Header from '../Header/Header'
 import Footer from '../Footer/Footer';
 import Carousel from './Carousel';
 import Text from './Text';
-import { Link } from "react-router-dom"
 
 
 

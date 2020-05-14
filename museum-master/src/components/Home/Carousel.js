@@ -10,43 +10,24 @@ function Carousel() {
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
-<<<<<<< HEAD
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src={image0} class="d-block w-100" alt="1 фото карусели"/>
-      <div class="carousel-caption d-none d-md-block">
-=======
   <div className="carousel-inner">
     <div className="carousel-item active">
       <img src={image0} className="d-block w-100" alt="1 фото карусели"/>
       <div className="carousel-caption d-none d-md-block">
->>>>>>> 0849a19e26a37d6e6ae21e7afb0c7ff2ab1db7a7
         <h2> <kbd>Добро пожаловать на официальный сайт политехнического музея </kbd></h2>
         <h2> <kbd> Южного Федерального Университета</kbd></h2>
       </div>
     </div>
-<<<<<<< HEAD
-    <div class="carousel-item">
-      <img src={image1} class="d-block w-100" alt="2 фото карусели"/>
-      <div class="carousel-caption d-none d-md-block ">
-=======
     <div className="carousel-item">
       <img src={image1} className="d-block w-100" alt="2 фото карусели"/>
       <div className="carousel-caption d-none d-md-block ">
->>>>>>> 0849a19e26a37d6e6ae21e7afb0c7ff2ab1db7a7
         <h1> <kbd>Более тысячи экспонатов</kbd></h1>
         <h4><kbd> 10 различных выставок</kbd></h4>
       </div>
     </div>
-<<<<<<< HEAD
-    <div class="carousel-item">
-      <img src={image2} class="d-block w-100"  alt="3 фото карусели"/>
-      <div class="carousel-caption d-none d-md-block">
-=======
     <div className="carousel-item">
       <img src={image2} className="d-block w-100"  alt="3 фото карусели"/>
       <div className="carousel-caption d-none d-md-block">
->>>>>>> 0849a19e26a37d6e6ae21e7afb0c7ff2ab1db7a7
         <h1><kbd>Экскурсии по музею</kbd></h1>
         <h4><kbd>Вы можете узнать об актуальных событиях во вкладке "Новости"</kbd></h4>
       </div>

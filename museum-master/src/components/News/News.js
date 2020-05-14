@@ -6,7 +6,6 @@ import React from 'react';
 import Header from '../Header/Header'
 import Footer from '../Footer/Footer'
 import * as serviceWorker from '../../serviceWorker'
-import { Link } from "react-router-dom"
 
 
 
@@ -24,8 +23,8 @@ function News () {
                 </div>
                 
                 <div className="card-news-body">
-                    <img src={ph3} class="news-img"></img>
-                    <h5 class="news-text">НОВОСТИ</h5>
+                    <img src={ph3} className="news-img" alt="иконка новости"></img>
+                    <h5 className="news-text">НОВОСТИ</h5>
                 </div>
                 <hr></hr>
 

@@ -36,13 +36,13 @@ function Text() {
                     </div>
                         <div className = "image-1">
 
-                        <img src={ph1} align="right" width="427" height="284"></img>
+                        <img src={ph1} align="right" width="427" height="284" alt="1 фото главной"></img>
 
                         </div>
                     </div>
                 <div className = "blok2">
                         <div className = "image-2">
-                            <img src={ph2} align="left" width="427" height="284"></img>
+                            <img src={ph2} align="left" width="427" height="284" alt="2 фото главной"></img>
                         </div>
                         <div className = "content-2"><p1>Ряд витрин и стендов в музее посвящены жизни и
                         деятельности выдающихся руководителей и учёных
@@ -70,12 +70,12 @@ function Text() {
                         </p2>
                         </div>
                         <div className = "image-3">
-                            <img src={ph3} align="left" width="427" height="284"></img>
+                            <img src={ph3} align="left" width="427" height="284" alt="3 фото главной"></img>
                         </div>
                     </div>
                 <div className = "blok-1">
                     <div className = "image-2">
-                        <img src={ph4} align="left" width="427" height="284"></img>
+                        <img src={ph4} align="left" width="427" height="284" alt="4 фото главной"></img>
                     </div>
                     <div className = "content-2">
                         <p2>На стендах токе представлены не только бытовые
